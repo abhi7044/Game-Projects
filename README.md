@@ -1,4 +1,4 @@
-# 🎮 Snake – Water – Gun: Game (Tkinter GUI)
+# 🎮 Snake – Water – Gun Game (Tkinter GUI)
 
 A simple and interactive **Snake–Water–Gun game** built using **Python and Tkinter**, featuring a clean dashboard UI, real-time score tracking, and classic game logic.
 
